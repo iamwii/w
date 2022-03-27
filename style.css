@@ -8,7 +8,8 @@ body {
   background-color: #080208;
   background-image: url("img/hero-bg.jpg");
   background-repeat: no-repeat;
-  background-position: top center;
+  background-position: center;
+ 
 }
 
 .container {
@@ -162,7 +163,7 @@ body {
   text-transform: uppercase;
   border-radius: 4px;
   background-color: #712073;
-  color: #ffffff;
+  color: #666666;
 }
 
 .page-footer {
